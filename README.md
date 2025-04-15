@@ -84,6 +84,6 @@ Me chamo Roberto Ribeiro, tenho 18 anos e atualmente estou cursando Ciência da 
 ### 📊 Estatísticas
 
 <p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=RobertorNeto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="GitHub Stats" height="200" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertorNeto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img align="left" alt="GitHub Stats" height="150" style="padding-right: 10px; display: inline-block;" src="https://github-readme-stats.vercel.app/api?username=RobertorNeto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img align="left" alt="GitHub Stats" height="150" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertorNeto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
