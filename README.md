@@ -84,6 +84,6 @@ Me chamo Roberto Ribeiro, tenho 18 anos e atualmente estou cursando Ciência da 
 ### 📊 Estatísticas
 
 <p>
-  <img align="left" alt="GitHub Stats" height="150" style="padding-right: 10px; display: inline-block;" src="https://github-stats-omega-nine.vercel.app/api?username=RobertorNeto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img align="left" alt="GitHub Stats" height="150" style="padding-right: 10px; display: inline-block;" src="https://github-stats-omega-nine.vercel.app/api/?username=RobertorNeto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img align="left" alt="GitHub Stats" height="150" style="display: inline-block;" src="https://github-stats-omega-nine.vercel.app/api/top-langs/?username=RobertorNeto&layout=compact&theme=dracula&hide=html,css" />
 </p>
